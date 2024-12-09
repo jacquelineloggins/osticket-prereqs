@@ -17,11 +17,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Also 1
-- Also 2
-- Also 3
-- Also 4
-- Also 5
+- Creating the Virtual Machine
+- Downloading & Opening osTicket
+- Establishing ISS
 
 <h2>Installation Steps</h2>
 
